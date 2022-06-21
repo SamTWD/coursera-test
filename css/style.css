@@ -1,0 +1,47 @@
+html body {
+	font-size: 16px;
+	font-family: "Times New Roman", Times, serif;
+}
+#collapsable-nav-container, #collapsable-nav-container *{
+	margin:0;
+	padding:0;
+	
+}
+
+#collapsable-nav{
+	padding:0;
+	border:none;
+}
+
+#navbar {
+	margin-bottom:0;
+	background-color:#999999;
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+	border-radius:0;
+}
+ 
+ 
+
+div ul li{
+	border-bottom:1px solid black; 
+	text-align:center;  
+	overflow:hidden;
+ 
+}
+
+nav div div span {
+	color:black;
+}
+ 
+ #chicken {
+	 background-color:#999999;
+	 border: 1px solid black;
+ }
+ 
+#ddlButton {
+	border-color:black;
+}
+#ddlButton span {
+	background-color:black;
+}
